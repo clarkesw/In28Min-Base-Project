@@ -1,0 +1,6 @@
+spring.application.name=project-name-rename
+server.port=0
+
+BaseProjectAppRename
+
+<artifactId>base-project-rename</artifactId>
